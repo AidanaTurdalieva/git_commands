@@ -23,3 +23,8 @@
 # git branch - вывод списка веток 
 # git branch <new_branch_name> - создание новой ветки 
 # git chrеkout <branch_name> - переход на указанную ветку
+
+
+# git checkout -b <new_branch_name> - создание новой ветки И переход на указанную ветку
+
+# git merge <branch_name> - склеивание веток. склеивает указанную ветку к текущей
