@@ -18,3 +18,8 @@
 
 # git push origin <branch_name> - отправка версии кода в удаленный репозиторий
 
+# ветка/branch - копия кода независимая от основной версии кода
+
+# git branch - вывод списка веток 
+# git branch <new_branch_name> - создание новой ветки 
+# git chrеkout <branch_name> - переход на указанную ветку
